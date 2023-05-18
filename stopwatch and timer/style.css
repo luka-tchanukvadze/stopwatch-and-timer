@@ -3,25 +3,28 @@
     height: 30px;
     border: 3px solid;
     border-radius: 12px;
-    background-color: #333333;
+    background-color: gray;
     color: white;
     cursor: pointer;
     font-family: consolas, monospace;
+    margin-bottom: 5px;
 }
 
 #timeDisplay{
     font-size: 75px;
-    color: #40c437;
-    font-family: consolas, monospace;
+    color: black;
+    font-family: sans-serif;
 }
 
 #timeContainer{
     text-align: center;
     border: 3px solid;
     border-radius: 25px;
-    background-color: #222222;
+    background-color: #ddd;
     height: 130px;
     padding: 0 20px 0px;
+    padding-bottom: 20px;
+    border: none;
 }
 
 body{
@@ -30,3 +33,4 @@ body{
     justify-content: center;
     background-color: rgb(1, 1, 35);
 }
+

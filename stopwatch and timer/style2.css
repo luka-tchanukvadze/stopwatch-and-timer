@@ -4,9 +4,11 @@ body{
     justify-content: center;
     background-color: #ddd;
     margin: 24px;
+    text-align: center;
 }
 
 .timer{
+    margin-top: 280px;
     font-family: sans-serif;
     display: inline-block;
     padding: 24px 32px;
@@ -38,3 +40,4 @@ body{
 .timer__btn--stop{
     background: red;
 }
+
